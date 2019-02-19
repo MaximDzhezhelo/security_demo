@@ -1,0 +1,15 @@
+spring:
+  profiles:
+    active: dev
+
+metric:
+  login: 'metric'
+  password: '$2a$10$Job6p06tcEb2uYss77rUWu0W527CQSKOnd7U9otGC.YMPF1UmFcDW'    #metric-password
+
+firstAnother:
+  login: 'firstAnother'
+  password: '$2a$10$Wj4S0KILaAB1VX3yUr1YtubqJFvoB1qpxup13yVXklIkptjIr9mD6'   #another-password
+
+secondAnother:
+  login: 'secondAnother'
+  password: '$2a$10$Wj4S0KILaAB1VX3yUr1YtubqJFvoB1qpxup13yVXklIkptjIr9mD6'   #another-password
